@@ -1,0 +1,160 @@
+[2014-02-27 12:42:38,602]ERROR 76923[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:17,712]ERROR 36209[Thread-30-AuthenticationBolt](Authentication.java:71) - Unable to connect cassandra @ Authentication :isautheroziedDevicetype
+[2014-03-03 11:57:17,895]ERROR 36392[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:24,592]ERROR 43089[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:24,621]ERROR 43118[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:26,004]ERROR 44501[Thread-48-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:30,464]ERROR 48961[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:30,490]ERROR 48987[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:31,268]ERROR 49765[Thread-48-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:31,287]ERROR 49784[Thread-48-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:32,475]ERROR 50972[Thread-28-cassandraBolt](EventDao.java:84) - java.sql.SQLNonTransientConnectionException: org.apache.thrift.transport.TTransportException: Read a negative frame size (-2147418110)!
+[2014-03-03 11:57:35,534]ERROR 54031[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:35,569]ERROR 54066[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:36,861]ERROR 55358[Thread-48-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:36,913]ERROR 55410[Thread-48-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:40,751]ERROR 59248[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:40,772]ERROR 59269[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:41,938]ERROR 60435[Thread-48-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:45,682]ERROR 64179[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 11:57:49,786]ERROR 68283[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:52:05,879]ERROR  8984[Thread-36-cassandraBolt](EventDao.java:84) - java.sql.SQLNonTransientConnectionException: org.apache.thrift.TApplicationException: execute_cql_query failed: out of sequence response
+[2014-03-03 12:52:07,159]ERROR 10264[Thread-56-AuthenticationBolt](Authentication.java:71) - Unable to connect cassandra @ Authentication :isautheroziedDevicetype
+[2014-03-03 12:55:37,194]ERROR 51158[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:55:41,400]ERROR 55364[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:55:41,402]ERROR 55366[Thread-22-AuthenticationBolt](Authentication.java:71) - Unable to connect cassandra @ Authentication :isautheroziedDevicetype
+[2014-03-03 12:55:41,405]ERROR 55369[Thread-28-cassandraBolt](EventDao.java:84) - java.sql.SQLNonTransientConnectionException: org.apache.thrift.TApplicationException: execute_cql_query failed: out of sequence response
+[2014-03-03 12:55:41,442]ERROR 55406[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:55:42,667]ERROR 56631[Thread-48-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:55:46,930]ERROR 60894[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:55:47,605]ERROR 61569[Thread-48-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:55:47,609]ERROR 61573[Thread-48-AuthenticationBolt](Authentication.java:71) - Unable to connect cassandra @ Authentication :isautheroziedDevicetype
+[2014-03-03 12:55:47,637]ERROR 61601[Thread-48-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:55:52,798]ERROR 66762[Thread-30-AuthenticationBolt](Authentication.java:71) - Unable to connect cassandra @ Authentication :isautheroziedDevicetype
+[2014-03-03 12:55:52,811]ERROR 66775[Thread-48-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:55:58,026]ERROR 71990[Thread-56-AuthenticationBolt](Authentication.java:71) - Unable to connect cassandra @ Authentication :isautheroziedDevicetype
+[2014-03-03 12:55:58,085]ERROR 72049[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:04,301]ERROR 78265[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:04,530]ERROR 78494[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:09,400]ERROR 83364[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:09,460]ERROR 83424[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:12,900]ERROR 86864[Thread-48-AuthenticationBolt](Authentication.java:71) - Unable to connect cassandra @ Authentication :isautheroziedDevicetype
+[2014-03-03 12:56:14,019]ERROR 87983[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:14,046]ERROR 88010[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:18,776]ERROR 92740[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:18,814]ERROR 92778[Thread-38-cassandraBolt](EventDao.java:84) - java.sql.SQLNonTransientConnectionException: org.apache.thrift.TApplicationException: execute_cql_query failed: out of sequence response
+[2014-03-03 12:56:18,833]ERROR 92797[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:24,993]ERROR 98957[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:25,027]ERROR 98991[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:29,751]ERROR103715[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:29,770]ERROR103734[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:45,145]ERROR119109[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:45,163]ERROR119127[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:51,128]ERROR125092[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:51,146]ERROR125110[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:55,723]ERROR129687[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:56:55,768]ERROR129732[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:04,015]ERROR137979[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:04,032]ERROR137996[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:09,288]ERROR143252[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:09,517]ERROR143481[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:15,061]ERROR149025[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:15,284]ERROR149248[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:21,286]ERROR155250[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:21,303]ERROR155267[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:25,532]ERROR159496[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:25,551]ERROR159515[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:31,120]ERROR165084[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:31,148]ERROR165112[Thread-34-ThresholdBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:36,090]ERROR170054[Thread-34-ThresholdBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:36,312]ERROR170276[Thread-34-ThresholdBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:41,225]ERROR175189[Thread-34-ThresholdBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:41,244]ERROR175208[Thread-28-cassandraBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:45,830]ERROR179794[Thread-28-cassandraBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:46,052]ERROR180016[Thread-28-cassandraBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 12:57:50,326]ERROR184290[Thread-28-cassandraBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:01:35,834]ERROR 42211[Thread-30-AuthenticationBolt](Authentication.java:71) - Unable to connect cassandra @ Authentication :isautheroziedDevicetype
+[2014-03-03 13:01:39,095]ERROR 45472[Thread-28-cassandraBolt](EventDao.java:84) - java.sql.SQLNonTransientConnectionException: org.apache.thrift.transport.TTransportException: Read a negative frame size (-2147418109)!
+[2014-03-03 13:01:50,414]ERROR 56791[Thread-22-AuthenticationBolt](Authentication.java:71) - Unable to connect cassandra @ Authentication :isautheroziedDevicetype
+[2014-03-03 13:48:44,704]ERROR 20297[Thread-36-cassandraBolt](EventDao.java:84) - java.sql.SQLNonTransientConnectionException: org.apache.thrift.TApplicationException: execute_cql_query failed: out of sequence response
+[2014-03-03 13:48:55,406]ERROR 30999[Thread-40-AuthenticationBolt](Authentication.java:71) - Unable to connect cassandra @ Authentication :isautheroziedDevicetype
+[2014-03-03 13:48:55,406]ERROR 30999[Thread-46-cassandraBolt](EventDao.java:84) - java.sql.SQLNonTransientConnectionException: org.apache.thrift.TApplicationException: execute_cql_query failed: out of sequence response
+[2014-03-03 13:52:18,654]ERROR 12665[Thread-36-cassandraBolt](EventDao.java:84) - java.sql.SQLNonTransientConnectionException: org.apache.thrift.transport.TTransportException: Read a negative frame size (-2147418110)!
+[2014-03-03 13:52:18,684]ERROR 12695[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:52:19,656]ERROR 13667[Thread-38-cassandraBolt](EventDao.java:84) - java.sql.SQLNonTransientConnectionException: org.apache.thrift.transport.TTransportException
+[2014-03-03 13:52:22,826]ERROR 16837[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:52:23,046]ERROR 17057[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:52:28,292]ERROR 22303[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:52:28,516]ERROR 22527[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:52:33,329]ERROR 27340[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:52:33,552]ERROR 27563[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:52:39,557]ERROR 33568[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:52:39,658]ERROR 33669[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:52:44,882]ERROR 38893[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:52:44,901]ERROR 38912[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:52:51,070]ERROR 45081[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:52:51,088]ERROR 45099[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:52:55,938]ERROR 49949[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:52:55,957]ERROR 49968[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:00,809]ERROR 54820[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:00,827]ERROR 54838[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:06,280]ERROR 60291[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:06,298]ERROR 60309[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:10,580]ERROR 64591[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:10,650]ERROR 64661[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:15,477]ERROR 69488[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:15,575]ERROR 69586[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:20,290]ERROR 74301[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:20,308]ERROR 74319[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:25,421]ERROR 79432[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:25,645]ERROR 79656[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:30,649]ERROR 84660[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:30,667]ERROR 84678[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:34,893]ERROR 88904[Thread-22-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:34,911]ERROR 88922[Thread-34-ThresholdBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:39,680]ERROR 93691[Thread-34-ThresholdBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:39,940]ERROR 93951[Thread-34-ThresholdBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:44,595]ERROR 98606[Thread-34-ThresholdBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:44,616]ERROR 98627[Thread-46-cassandraBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:49,147]ERROR103158[Thread-46-cassandraBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:49,164]ERROR103175[Thread-46-cassandraBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 13:53:54,294]ERROR108305[Thread-46-cassandraBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-03 16:08:29,749]ERROR 44108[Thread-40-AuthenticationBolt](Authentication.java:71) - Unable to connect cassandra @ Authentication :isautheroziedDevicetype
+[2014-03-04 11:14:51,755]ERROR 15952[Thread-38-AuthenticationBolt](Authentication.java:71) - Unable to connect cassandra @ Authentication :isautheroziedDevicetype
+[2014-03-04 11:16:04,600]ERROR 14111[Thread-34-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:16:04,605]ERROR 14116[Thread-34-AuthenticationBolt](Authentication.java:71) - Unable to connect cassandra @ Authentication :isautheroziedDevicetype
+[2014-03-04 11:16:04,643]ERROR 14154[Thread-34-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:16:04,740]ERROR 14251[Thread-26-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:16:04,766]ERROR 14277[Thread-26-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:16:04,790]ERROR 14301[Thread-26-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:16:20,450]ERROR 29961[Thread-38-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:16:20,498]ERROR 30009[Thread-38-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:16:20,551]ERROR 30062[Thread-38-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:16:20,589]ERROR 30100[Thread-38-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:16:20,638]ERROR 30149[Thread-38-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:16:20,680]ERROR 30191[Thread-38-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:15,027]ERROR 19617[Thread-40-AuthenticationBolt](Authentication.java:71) - Unable to connect cassandra @ Authentication :isautheroziedDevicetype
+[2014-03-04 11:17:15,866]ERROR 20456[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:15,907]ERROR 20497[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:15,948]ERROR 20538[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:15,987]ERROR 20577[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:16,026]ERROR 20616[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:16,059]ERROR 20649[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:16,090]ERROR 20680[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:16,121]ERROR 20711[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:16,151]ERROR 20741[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:16,184]ERROR 20774[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:16,219]ERROR 20809[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:16,255]ERROR 20845[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:16,283]ERROR 20873[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:16,324]ERROR 20914[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:16,358]ERROR 20948[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:16,389]ERROR 20979[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:16,419]ERROR 21009[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:17:16,457]ERROR 21047[Thread-28-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 11:25:30,587]ERROR 43280[Thread-34-AuthenticationBolt](Authentication.java:71) - Unable to connect cassandra @ Authentication :isautheroziedDevicetype
+[2014-03-04 11:25:31,702]ERROR 44395[Thread-34-AuthenticationBolt](Authentication.java:71) - Unable to connect cassandra @ Authentication :isautheroziedDevicetype
+[2014-03-04 11:34:39,117]ERROR 24133[Thread-40-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 13:01:48,354]ERROR 25232[Thread-30-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 13:01:48,436]ERROR 25314[Thread-30-AuthenticationBolt](CassandraConnector.java:54) - unable to connect Cassandra
+[2014-03-04 13:01:48,511]ERROR 25389[Thread-38-cassandraBolt](EventDao.java:84) - java.sql.SQLNonTransientConnectionException: org.apache.thrift.TApplicationException: execute_cql_query failed: out of sequence response
